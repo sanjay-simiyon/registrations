@@ -1,0 +1,47 @@
+.heading{
+    align-self: center;
+}
+body{
+    background-color:#ededd0;
+    letter-spacing: 2px;
+    left: 5px;   
+}
+.body{
+    margin: 50px 170px;
+}
+
+p{
+    text-align: center;
+}
+.submit{
+    color: blue;
+    align-tracks: center;
+}
+form{
+    text-align: justify;
+    
+}
+.bewell{
+    width: 150px;
+}
+
+}
+
+h1{
+    color: #4aa96c;
+    text-decoration: underline;
+}
+.table{
+    background-color: brown;
+    border-collapse: collapse;
+}
+.row1{
+    background-color: blueviolet;
+
+}
+.row2{
+background-color: cadetblue;
+}
+.row3{
+    background-color:yellow;
+}
